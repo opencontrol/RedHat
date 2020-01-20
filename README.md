@@ -1,3 +1,5 @@
+# This project moved to https://github.com/ComplianceAsCode/redhat
+
 OpenControl content for Red Hat technologies. Work in progress!
 
 ## Developer Prep
